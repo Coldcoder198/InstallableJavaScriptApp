@@ -16,8 +16,13 @@ The newest way to install a webpage as a app!
 12. Then, deploy it to Cloudflare (or something else).
 13. You're finished!!
 
-# How to test
+## How to test
 1. Go to the deployed link and click on the gear icon. (Make sure to use Chrome/a Chromium-based browser!)
 2. Then, if it worked, you should see a button that says "Install as app".
 3. Click on the button and follow the instructions.
 4. You have installed your app!
+
+## How to make multiple forks
+1. Click on "Code" and click on "Download ZIP".
+2. Then, upload it to GitHub with "New repository".
+3. Finished!
