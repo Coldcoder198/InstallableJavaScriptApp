@@ -1,11 +1,11 @@
 {
-  "name": "MyApp",
-  "short_name": "MyApp",
+  "name": "Mega Race 2D",
+  "short_name": "MR2D",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
-  "description": "MyApp.",
+  "description": "A simple 2D racing game where you race along the streets dodging traffic.",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
