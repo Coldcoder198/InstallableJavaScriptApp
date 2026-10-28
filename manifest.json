@@ -1,11 +1,11 @@
 {
-  "name": "Mega Race 2D",
-  "short_name": "MR2D",
+  "name": "3D Burger Shop",
+  "short_name": "BS3D",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
-  "description": "A simple 2D racing game where you race along the streets dodging traffic.",
+  "description": "A small resturant that sells burgers.",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
