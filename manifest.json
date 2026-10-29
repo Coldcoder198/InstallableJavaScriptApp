@@ -1,11 +1,11 @@
 {
-  "name": "3D Burger Shop",
-  "short_name": "BS3D",
+  "name": "Concert Shift",
+  "short_name": "CS",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
-  "description": "A small resturant that sells burgers.",
+  "description": "Guard the line and only let the right people in.",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
