@@ -1,11 +1,11 @@
 {
-  "name": "Concert Shift",
-  "short_name": "CS",
+  "name": "City Bus",
+  "short_name": "CB",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
-  "description": "Guard the line and only let the right people in.",
+  "description": "Pick up and drop off passengers and upgrade your bus.",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
