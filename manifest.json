@@ -1,11 +1,11 @@
 {
-  "name": "City Bus",
-  "short_name": "CB",
+  "name": "Foundry Zero",
+  "short_name": "FZ",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
-  "description": "Pick up and drop off passengers and upgrade your bus.",
+  "description": "Pew! Pew!",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
