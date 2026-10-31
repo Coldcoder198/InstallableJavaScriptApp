@@ -1,11 +1,11 @@
 {
-  "name": "Foundry Zero",
-  "short_name": "FZ",
+  "name": "St Marrow",
+  "short_name": "STM",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
-  "description": "Pew! Pew!",
+  "description": "Beep... Beep...",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
